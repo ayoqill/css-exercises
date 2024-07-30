@@ -1,0 +1,17 @@
+#button1{
+    background-color: black;
+    color: white;
+    font-size: 20px;
+    padding: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+}
+
+#button2{
+    background-color: yellow;
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+    padding: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+}
