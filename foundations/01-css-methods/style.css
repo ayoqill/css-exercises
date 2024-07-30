@@ -1,0 +1,9 @@
+#first{
+    background-color: red;
+    font-size: 32px;
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
