@@ -1,0 +1,31 @@
+.first{
+
+    background-color: pink;
+    font-family: DejaVu Sans, sans-serif;
+}
+
+#second{
+
+    color: blue;
+    font-size: 36px;
+}
+
+.third{
+
+    background-color: pink;
+    font-family: DejaVu Sans, sans-serif;
+    font-size: 24px;
+}
+
+#fourth{
+
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold
+}
+
+.fifth{
+
+    background-color: pink;
+    font-family: DejaVu Sans, sans-serif;
+}
